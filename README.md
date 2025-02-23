@@ -1,4 +1,4 @@
-# Plants vs. Zombies Remade PRE-ALFA 0.1.8 <img src="https://github.com/vFurius/images/blob/main/trophy.png" alt="Trophy" width="50"/>
+# Plants vs. Zombies Remade <img src="https://github.com/vFurius/images/blob/main/trophy.png" alt="Trophy" width="50"/>
 
 ![Plants vs. Zombies Remade](https://github-readme-stats.vercel.app/api/pin/?username=vFurius&repo=PvZ-Remade&theme=nightowl&show_owner=true)
 

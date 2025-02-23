@@ -8,13 +8,13 @@ Plants vs. Zombies Remade es una recreación moderna del icónico juego de defen
 
 ## Características | Ideas Enfocadas
 
-<img src="https://github.com/vFurius/PvZ-Remade-Pre-Alfa-0.0.5/blob/main/icon.png" alt="Icono de Plants vs. Zombies" width="25"/> **Gráficos mejorados**: Nuevos sprites y animaciones para una experiencia visual fresca.
+**Gráficos mejorados**: Nuevos sprites y animaciones para una experiencia visual fresca.
 
-<img src="https://github.com/vFurius/PvZ-Remade-Pre-Alfa-0.0.5/blob/main/icon.png" alt="Icono de Plants vs. Zombies" width="25"/> **Mecánicas de juego**: Las mismas mecánicas clásicas que hicieron famoso al juego original, incluyendo el sistema de plantas y zombis.
+**Mecánicas de juego**: Las mismas mecánicas clásicas que hicieron famoso al juego original, incluyendo el sistema de plantas y zombis.
 
-<img src="https://github.com/vFurius/PvZ-Remade-Pre-Alfa-0.0.5/blob/main/icon.png" alt="Icono de Plants vs. Zombies" width="25"/> **Menús interactivos**: Menú principal, opciones y sistema de niveles, replicando la experiencia del PvZ original.
+**Menús interactivos**: Menú principal, opciones y sistema de niveles, replicando la experiencia del PvZ original.
 
-<img src="https://github.com/vFurius/PvZ-Remade-Pre-Alfa-0.0.5/blob/main/icon.png" alt="Icono de Plants vs. Zombies" width="25"/> **Sistema de carga**: Barra de carga animada y mensajes personalizados para mejorar la experiencia de usuario.
+**Sistema de carga**: Barra de carga animada y mensajes personalizados para mejorar la experiencia de usuario.
 
 ## Tecnologías Utilizadas
 
